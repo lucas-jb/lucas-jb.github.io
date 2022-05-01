@@ -1,0 +1,8 @@
+#tech-icons p{
+    text-align: center;
+}
+#tech-icons p a img{
+    width: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
